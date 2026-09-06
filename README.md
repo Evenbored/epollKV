@@ -1,4 +1,4 @@
-# SelfRedis
+# epollKV
 
 In-memory key-value store с TLS и аутентификацией
 
