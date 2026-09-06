@@ -1,0 +1,17 @@
+*.o
+*.out
+redis_server
+server.crt
+server.key
+*.pem
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
